@@ -1,4 +1,7 @@
-# Dynamic-Sales-Dashboard
+# Dynamic-Sales-Dashboard using MS EXCEL
+
+
+A sales dashboard centralizes, standardizes, and visually represents all sales data in an easily accessible platform. A sales dashboard provides transparency into different sales KPIs, enabling sales teams and managers to assess performance against their goals and objectives in real time.
 
 Google Drive Link
 
