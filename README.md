@@ -31,7 +31,7 @@ This dashboard tells story about transactional historical data from 2015 to 2017
 
 ## <img src=https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif  width="48" height="48"> Dataset Description
 
-We will be using Ecommerce_Sales_Dashboard.xlsx Dataset attached.
+The data is contained in three worksheets and lookuped into one worksheet to create this ananlysis.
 
 Within this file you will find the following fields:
 
