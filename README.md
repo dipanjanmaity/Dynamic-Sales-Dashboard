@@ -1,4 +1,4 @@
-# E Commerce Sales Dashboard
+# :chart_with_upwards_trend: E Commerce Sales Dashboard
 
 
 In this work I built an Interactive Dynamic Dashboard in Excel using Pivot Features, tables & slicers.
