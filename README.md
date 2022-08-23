@@ -100,6 +100,6 @@ I have utilized following items in building sales dashboard which analyzes sales
 <br>
 
 
-##  <img src=https://user-images.githubusercontent.com/106439762/178810087-8f7f8272-0cb8-40cb-a14c-be475569cf7d.gif width="48" height="48"> LinkedIN Profile
+##  :arrow_right: LinkedIN Profile
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipanjan-maity/)
