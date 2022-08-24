@@ -72,7 +72,7 @@ Within this file you will find the following fields:
 - Prepare a table of Quanterly Analysis
 - Prepare the table of Top 5 Customers in term of sales and Top 3 Cities in term of sales
 - Prepare the Daily,Weekly and Yearly Trends.
-- Create a User Control Combo box for switching between Revenue,Profit,COGS etc. analysis
+- Create a User Control Combo box for switching between Revenue,Profit,COGS etc.
 - Create a dashboard
 
 <br>
