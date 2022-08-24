@@ -66,7 +66,7 @@ Within this file you will find the following fields:
 
 ## <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
 
-- lookuped all the data into one worksheet
+- Lookuped all the data into one worksheet
 - Create a histogram to analyze a profit,revenue etc. for every months.
 - Comparison of Revenue change With Previous Month
 - Prepare a table of Quanterly Analysis
