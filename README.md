@@ -4,9 +4,15 @@
 In this work I built an Interactive Dynamic Dashboard in Excel using Pivot Features, tables & slicers.
 This dashboard tells story about transactional historical data from 2015 to 2017. There are total 20,778 transactions. The data is contained in three worksheets and lookuped into one worksheet to create this ananlysis.
 
-<br>
 
-## <img src=https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif  width="48" height="48"> User's Manual
+
+## <img src=https://i.pinimg.com/originals/01/d6/1f/01d61f2df15d6f63251c1ec4ebb0824f.gif  width="40" height="40"> Aim
+
+A web-based retailer wants to create a sales dashboard to analyse sales based on different product categories.For profit, revenue, quantity, cost of goods sold, and transaction, the corporation wishes to introduce user control.Users can thus choose settings and view the trend by month. 
+
+
+
+## <img src=https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif  width="40" height="40"> User's Manual
 
 <table>
 <thead>
@@ -27,7 +33,7 @@ This dashboard tells story about transactional historical data from 2015 to 2017
 </tbody>
 </table>
 
-<br>
+
 
 ## <img src=https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif  width="48" height="48"> Dataset Description
 
@@ -56,13 +62,13 @@ Within this file you will find the following fields:
 | Month         | Product Purchase Month |
 | Year          | Product Purchase Year |
 
-<br>
+
 
 ## <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif  width="48" height="48"> Prior Knowledge
 
 <p align = "left">   &emsp;&emsp;&emsp; <img height = "30" src = "https://img.shields.io/badge/MS-EXCEL-%3CGREEN%3E"> </p>
 
-<br>
+
 
 ## <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
 
@@ -75,13 +81,13 @@ Within this file you will find the following fields:
 - Create a User Control Combo box for switching between Revenue,Profit,COGS etc.
 - Create a dashboard
 
-<br>
+
 
 ## <img src=https://camo.githubusercontent.com/2d618acb10c0499b4dac42891f2b152e43b1a6ce6d95cc5f4915a2b0f56a5e89/68747470733a2f2f7777772e676574636c6f75646170702e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30332f3561656262393532653438363763653133663464333038665f6c6170746f705f6769665f7472616e732e676966  width="48" height="48" > Screenshot
 
 ![Snapshot of Dashboard](https://user-images.githubusercontent.com/79499162/185386189-6e022938-8fb6-425a-b4a0-3ee040219bca.jpg)
 
-<br>
+
 
 
 ## <img src=https://user-images.githubusercontent.com/106439762/178804195-d9db61fb-b2cf-4c8f-bfc3-214cfe0f534c.gif width="48" height="48"> Items Utilization
@@ -91,13 +97,13 @@ I have utilized following items in building sales dashboard which analyzes sales
 - Different Chart
 - Slicers 
 
-<br>
+
 
 ## <img src=https://user-images.githubusercontent.com/106439762/178810087-8f7f8272-0cb8-40cb-a14c-be475569cf7d.gif width="48" height="48"> Google Drive Link :
 
 - [Click here](https://drive.google.com/drive/folders/1_Ol5ineORivJsio3zKRT9WZo6CKixDmz?usp=sharing)
 
-<br>
+
 
 
 ##  :arrow_right: LinkedIN Profile
