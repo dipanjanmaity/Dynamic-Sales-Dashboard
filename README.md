@@ -8,7 +8,7 @@ This dashboard tells story about transactional historical data from 2015 to 2017
 
 ## <img src=https://i.pinimg.com/originals/01/d6/1f/01d61f2df15d6f63251c1ec4ebb0824f.gif  width="40" height="40"> Aim
 
-A web-based retailer wants to create a sales dashboard to analyse sales based on different product categories.For profit, revenue, quantity, cost of goods sold, and transaction, the corporation wishes to introduce user control.Users can thus choose settings and view the trend by month. 
+A web-based retailer wants to create a sales dashboard to analyse sales based on different product categories.For profit, revenue, quantity, cost of goods sold, and transaction, the corporation wishes to introduce user control. Users can thus choose settings and view the trend by month. 
 
 
 
