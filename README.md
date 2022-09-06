@@ -2,7 +2,7 @@
 
 
 In this work I built an Interactive Dynamic Dashboard in Excel using Pivot Features, tables & slicers.
-This dashboard tells story about transactional historical data from 2015 to 2017. There are total 20,778 transactions. The data is contained in three worksheets and lookuped into one worksheet to create this ananlysis.
+This dashboard tells story about transactional historical data from 2015 to 2017. There are total 20,778 transactions. The data is contained in three worksheets and lookuped into one worksheet to create this analysis.
 
 
 
